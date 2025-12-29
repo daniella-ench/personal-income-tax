@@ -12,4 +12,4 @@ based on filing status and taxable income.
 - 3: Head of Household
 
 ## How to Run
-python tax_calculator.py
+python cosassignment.py
